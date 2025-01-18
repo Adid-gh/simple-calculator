@@ -1,2 +1,9 @@
 # simple-calculator
-A simple calculator app that performs basic arithmetic operations (addition, subtraction, multiplication, division). Built with python, it handles user input and includes basic error handling.
+A simple calculator program that performs basic arithmetic operations 
+
+    1. addition
+    2. subtraction
+    3. multiplication 
+    4. division
+
+ This program built with python.
